@@ -9,7 +9,7 @@ El siguiente ejemplo abarca un sistema de gestión de gimnasio, con enfoque en l
 
 ### 1) Usuario *(clase abstracta)*
 - Atributos: id, nombre, email, contraseña.
-- Métodos: loguearse(), modificarDatos()
+- Métodos: ingresar(), modificarDatos()
 
 Esta clase representa a cualquier usuario del sistema.
 
@@ -44,3 +44,6 @@ Representa una rutina asignada a un cliente.
 - Métodos: mostrarInfo()
 
 Representa una sucursal del gimnasio.
+
+
+![Diagrama de clases](diagramadeclases.png)
