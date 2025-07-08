@@ -17,26 +17,24 @@ Representa a los "actores". es decir, los usuarios que interactúan con la app, 
 
 - **Actores**: pueden ser personas, otro sistema, o cualquier cosa que interactúe.
 - **Casos de uso**: las funcionalidades principales.
-- Flechas que conectan actores con casos de uso.
+- **Flechas**: conectan actores con casos de uso.
 
 ---
 
-## 💡 Ejemplo adaptado a nuestro trabajo: Sistema de Gestión de Gimnasio
+## Ejemplo adaptado a nuestro trabajo: Sistema de Gestión de Gimnasio
 
 ### Actores:
-- Cliente
-- Administrativo
+- Cliente.
+- Administrativo.
 
 ### Casos de uso del Cliente:
-- Consultar rutina
-- Modificar datos personales
-- Ver estadísticas
-- Consultar tiempo de permanencia
-- Ver sedes disponibles
+- Consultar rutina.
+- Modificar datos personales.
+- Ver estadísticas.
+- Consultar tiempo de permanencia.
+- Ver sedes disponibles.
 
 ### Casos de uso del Administrativo:
-- Crear rutina
-- Crear nuevo cliente
-- Dar de baja cliente
-
----
+- Crear rutina.
+- Crear nuevo cliente.
+- Dar de baja cliente.
