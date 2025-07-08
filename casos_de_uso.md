@@ -38,3 +38,10 @@ Representa a los "actores". es decir, los usuarios que interactúan con la app, 
 - Crear rutina.
 - Crear nuevo cliente.
 - Dar de baja cliente.
+
+## Ejemplo visual de diagrama de casos de uso
+
+En la siguiente imagen podemos observar de forma muy clara un simple ejemplo de este tipo de diagrama donde los dos actores que se involucran, donde cada uno esta conectado con sus casos de uso. El crítico de comidas se encarga de las primeras tres acciones mientras que el chef solo de la última.
+En un ejemplo más completo podríamos agrerar meseros, lavaplatos, cajeros y demás actores participantes en un restaurante, pero para entender la idea está más que bien. 
+
+![Diagrama de casos de uso](casosdeuso.png)
