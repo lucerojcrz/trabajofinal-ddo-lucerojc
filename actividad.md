@@ -31,4 +31,8 @@ Sirve para ver cómo se comporta el sistema cuando pasa algo, y qué caminos pue
 - Si es administrativo, muestra opciones para crear rutina o modificar clientes.
 - Fin.
 
+Ejemplo visual de diagrama de actividad
+
+En el siguiente diagrama de actividad, podemos apreciar una funcion escencial en este tipo de diagrama la cual es mostrar cuántos caminos diferentes puede tomar nuestro camino dependiendo las decisiones que tomemos, contenplando varias opciones y caminos a lo largo del desarollo de nuestro diagrama.
+
 ![Diagrama de actividad](actividad.png)
