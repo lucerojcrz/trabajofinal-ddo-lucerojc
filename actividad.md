@@ -30,3 +30,5 @@ Sirve para ver cómo se comporta el sistema cuando pasa algo, y qué caminos pue
 - Si es cliente, muestra su rutina y estadísticas.
 - Si es administrativo, muestra opciones para crear rutina o modificar clientes.
 - Fin.
+
+![Diagrama de actividad](actividad.png)
